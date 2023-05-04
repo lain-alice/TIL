@@ -13,6 +13,7 @@
 ## JavaScript
 
 - 고차함수
+
   - [map, filter, reduce](./JavaScript/higher-order-function.md)
 
 <br>
@@ -20,6 +21,7 @@
 ## TypeScript
 
 - 타입스크립트 기본 문법
+
   - [타입 지정](./TypeScript/typescript-type.md)
 
 <br>
